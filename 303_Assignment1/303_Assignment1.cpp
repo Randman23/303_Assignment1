@@ -150,18 +150,18 @@ int main() {
     cout << endl;
     
 
-    cout << "Type the index of number that you want to remove. ";
-    cin >> indextomodify;
+    cout << "Type the index of number that you want to remove. "; //prompt the user for the number they want to remove from the array 
+    cin >> indextomodify; //assign the users input to a variable 
 
-    try {
-        replaceint(array, size, indextomodify, remove);
+    try { //start a try catch to ensure that the index is in bounds 
+        replaceint(array, size, indextomodify, remove); //call the above function
     }
-    catch (const std::out_of_range& e) {
+    catch (const std::out_of_range& e) { //use the catch of being out of range if index is out of range 
         cerr << "Error: " << e.what() << endl;
     }
 
-    cout << "New Array: ";
-    for (int i = 0; i < size; i++) {
+    cout << "New Array: "; //print new array 
+    for (int i = 0; i < size; i++) { //print the final array for the user
         cout << array[i] << " ";
     }
     cout << endl;
