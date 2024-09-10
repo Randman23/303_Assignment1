@@ -45,3 +45,4 @@ the index of that integer in the array.
 ![303 pt 2 ](https://github.com/user-attachments/assets/5087146a-24fc-48c0-9c8e-94dfb7504898)
 ![303 pt 3 ](https://github.com/user-attachments/assets/88e58055-e848-4451-88e3-4a608fe66561)
 ![303 pt 4](https://github.com/user-attachments/assets/c6309537-ede3-44e7-a1d5-a0e4772d5f2c)
+![303 pt 5 ](https://github.com/user-attachments/assets/7f27e95f-c90d-425a-8c28-3c15659f3a81)
