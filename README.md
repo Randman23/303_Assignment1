@@ -33,11 +33,13 @@ void replaceint
 
 - Once the user compiles the program it will ask for a an integer that you want to search for. Upon entering that integer it prints 
 the index of that integer in the array. 
--Next it will ask what is the index of the value that you desire to replace. 
--Once the user inputs the index of that value then they will be asked what is the value that they want to replace it with. 
--The program will then print the old value and the new value.
+- Next it will ask what is the index of the value that you desire to replace. 
+- Once the user inputs the index of that value then they will be asked what is the value that they want to replace it with. 
+- The program will then print the old value and the new value.
 - The function will then ask for you to add a new value to the end of the array. 
--The new array along with the new value will be printed
--Finally it will ask for the index of the number that the user wants removed. 
--It will print the whole array one more time without the index that the user specified present. 
+- The new array along with the new value will be printed
+- Finally it will ask for the index of the number that the user wants removed. 
+- It will print the whole array one more time without the index that the user specified present.
+##Pictures To Follow 
 ![303 pt 1 ](https://github.com/user-attachments/assets/621d94a1-9ec7-4c25-86bb-16406c1d40f1)
+![303 pt 2 ](https://github.com/user-attachments/assets/5087146a-24fc-48c0-9c8e-94dfb7504898)
