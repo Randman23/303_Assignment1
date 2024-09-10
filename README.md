@@ -44,3 +44,4 @@ the index of that integer in the array.
 ![303 pt 1 ](https://github.com/user-attachments/assets/621d94a1-9ec7-4c25-86bb-16406c1d40f1)
 ![303 pt 2 ](https://github.com/user-attachments/assets/5087146a-24fc-48c0-9c8e-94dfb7504898)
 ![303 pt 3 ](https://github.com/user-attachments/assets/88e58055-e848-4451-88e3-4a608fe66561)
+![303 pt 4](https://github.com/user-attachments/assets/c6309537-ede3-44e7-a1d5-a0e4772d5f2c)
