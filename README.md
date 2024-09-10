@@ -40,3 +40,4 @@ the index of that integer in the array.
 -The new array along with the new value will be printed
 -Finally it will ask for the index of the number that the user wants removed. 
 -It will print the whole array one more time without the index that the user specified present. 
+![303 pt 1 ](https://github.com/user-attachments/assets/621d94a1-9ec7-4c25-86bb-16406c1d40f1)
